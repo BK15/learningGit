@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
 
     let username = "jax1997"
+    var howManyPhones = 2
     
     override func viewDidLoad() {
         super.viewDidLoad()
