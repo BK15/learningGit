@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     let username = "jax1997"
     var howManyPhones = 2
+    var points = 2100
     
     override func viewDidLoad() {
         super.viewDidLoad()
